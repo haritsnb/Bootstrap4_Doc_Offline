@@ -3,7 +3,8 @@
 You can run it directly without a local server.  
 Anda bisa menjalankannya langsung tanpa server local.
 
-**Screenshots**
+**Screenshots**  
+---
 You can run it by clicking index.html  
 Anda bisa menjalankan dengan klik index.html   
 
